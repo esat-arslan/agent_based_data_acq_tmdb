@@ -61,10 +61,10 @@ Run the application:
 
   Use the form to input search parameters and click "Search and Save" to fetch and save movie data.
 ## File Structure
-main.py: Main application file.
-config.py: Configuration file for API key.
-templates/: HTML templates for the web interface.
-static/: Static files such as CSS styles.
+main.py: Main application file.  
+config.py: Configuration file for API key.  
+templates/: HTML templates for the web interface.  
+static/: Static files such as CSS styles.  
 
 ## License
 This project is licensed under the [MIT License](/license.md).
