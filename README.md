@@ -40,6 +40,8 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/esatarslan/agent_based_data_acq_tmdb.git
+   ```
+   ```
    cd movie-data-search
    ```
 2. Install dependencies:
