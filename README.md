@@ -39,7 +39,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-data-search.git
+   git clone https://github.com/esatarslan/agent_based_data_acq_tmdb.git
    cd movie-data-search
    ```
 2. Install dependencies:
